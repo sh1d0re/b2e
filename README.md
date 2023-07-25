@@ -3,7 +3,7 @@
 
 ## EXPLANATION
 ### Definition:
-> B2E       - B2E stands for Black Box Encoder (B2 means two B`s).
+> B2E    - B2E stands for Black Box Encoder (B2 means two B`s).
 
 ## REQUIREMENTS
 
@@ -23,9 +23,9 @@
 > Anti-Brute Forcing
 
 ## HOW-TO-USE
-> Step 1    - Open terminal
+> Step 1 - Open terminal
 
-> Step 2    - Type in the following:
+> Step 2 - Type in the following:
 
 ```git clone https://github.com/sh1d0re/b2e.git```
 
