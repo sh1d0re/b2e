@@ -29,6 +29,6 @@
 
 ```git clone https://github.com/sh1d0re/b2e.git```
 
-```cp b2e ``` ```Enter The Directory You Want To Import B2E Here [Ex. /projects/b2e_encoder /test/projects/]```
+```cp b2e // Enter The Directory You Want To Import B2E Here [Ex. /projects/b2e_encoder /test/projects/]```
 
 ### |🔒 B2E [Black Box Encoder]| A Simple, Quick, Light, and Safe Encoder.｜⟐ Sh1d0re Developments｜
