@@ -22,6 +22,25 @@
 
 > Anti-Brute Forcing
 
+## HOW-IT-WORKS
+### Issuance of public key:
+> The user determines the content of the public key as a password just like: "secret123", "123456seven" which is memorable for the user and the others to use the text to decode the text.
+
+> The public key goes through the "black box" that operates random multiple calculations that would result in equalized as the result of other machines that are calculating.
+
+> The result calculated through the "black box" would be used for the encoding process that would happen later on.
+
+> Content of the black box would be the same for all b2e encoders, so the encoding result would end up the same in any time, place, or device unless the user is not using the same public key.
+
+### The difficulty of brute forcing the public key:
+> Total patterns of encoding could be calculated by the following:
+
+```Emojis[3664]+Alphabet(Low&High Case)[56]+Integers[10]+SpecialCharacters[33]=3764``` All Unicode characters are acceptable.
+
+```(Estimate that public key is 10 letters) 3764^1+3764^2+3764^3+3764^4+3764^5+3764^6+3764^7+3764^8+3764^9+3764^10```
+
+> Resulting in 569452639488279432248674706457898252 total patterns.
+
 ## HOW-TO-USE
 > Step 1 - Open terminal
 
