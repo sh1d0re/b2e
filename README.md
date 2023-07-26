@@ -31,4 +31,6 @@
 
 ```cp b2e // Enter The Directory You Want To Import B2E Here [Ex. /projects/b2e_encoder /test/projects/]```
 
-### |🔒 B2E [Black Box Encoder]| A Simple, Quick, Light, and Safe Encoder.｜⟐ Sh1d0re Developments｜
+> Step 3 - To use it in your python code locally, import script.py and the b2e class by using the following code on the head of your program:
+
+```from b2e.script import b2e```
