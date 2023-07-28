@@ -35,18 +35,17 @@
 ### The difficulty of brute forcing the public key:
 #### Calculating total patterns of encoding valid:
 
-```Emojis[3664]+Alphabet(Low&High Case)[56]+Integers[10]+SpecialCharacters[33]=3764``` All Unicode characters are acceptable.
+```Alphabet(Low&High Case)[56]+Integers[10]+SpecialCharacters[33]=99``` All Unicode characters are acceptable.
 
-```(Assume that maximum length of public key is 10 letters) 3764^1+3764^2+3764^3+3764^4+3764^5+3764^6+3764^7+3764^8+3764^9+3764^10```
-
-> Resulting in 569,452,639,488,279,432,248,674,706,457,898,252 total patterns.
+```(Assume that maximum length of public key is 20 letters) 99^1+99^2+99^3+99^4+・・・99^17+99^18+99^19+99^20```
+> Resulting in 826,252,926,756,386,287,939,088,442,794,788,599,9000 total patterns.
 
 #### Calculating ETA to brute force the public key:
-```(Assume that answer speed for every public key is 0.001 seconds and without a quantum computer) 569,452,639,488,279,432,248,674,706,457,898,252*0.001```
+```(Assume that answer speed for every public key is 0.00001 seconds and without a quantum computer) 826,252,926,756,386,287,939,088,442,794,788,599,9000*0.00001```
 
-> Resulting in 569,452,639,488,279,432,248,674,706,457,898.252 seconds.
+> Resulting in 826,252,926,756,386,287,939,088,442,794,788,599.9 seconds.
 
-> = Around 180 years to brute force the public key.
+> = Around 262 years to brute force the public key.
 
 ## HOW-TO-USE
 > Step 1 - Open terminal
