@@ -38,7 +38,7 @@
 ```Alphabet(Low&High Case)[56]+Integers[10]+SpecialCharacters[33]=99``` All Unicode characters are acceptable.
 
 ```(Assume that maximum length of public key is 20 letters) 99^1+99^2+99^3+99^4+・・・99^17+99^18+99^19+99^20```
-> Resulting in 826,252,926,756,386,287,939,088,442,794,788,599,9000 total patterns.
+> Resulting in 8,262,529,267,563,862,879,390,884,427,947,885,999,000 total patterns.
 
 #### Calculating ETA to brute force the public key:
 ```(Assume that answer speed for every public key is 0.00001 seconds and without a quantum computer) 826,252,926,756,386,287,939,088,442,794,788,599,9000*0.00001```
