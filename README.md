@@ -6,6 +6,8 @@
 > B2E    - B2E stands for Black Box Encoder (B2 means two B`s).
 
 ## REQUIREMENTS
+### Packages:
+> Python [3.10 or higher]
 
 ### Storage:
 > With Pre-Installed Base Development Environments: Around 80kB [B2E (Around. 25kB)]
@@ -13,7 +15,6 @@
 > Without Base Development Environments:            Around 90mB [Python-v3 (90mB) / B2E (Around. 20kB)]
 
 ## FEATURES
-### List:
 > Efficient & Safe Encoding
 
 > Easy Local Python Imports & Example
