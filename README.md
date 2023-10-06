@@ -48,6 +48,10 @@
 
 > = Around 2.62003084334216828*10^27 centuries to brute force the public key.
 
+#### Calculating ETA to brute force the public key with a quantum computer:
+
+https://www.scientificamerican.com/article/new-exascale-supercomputer-can-do-a-quintillion-calculations-a-second/
+https://www.nasdaq.com/articles/putting-ai-on-the-fast-track-to-sure-fire-success#:~:text=Google%20has%20built%20a%20quantum,than%20even%20today's%20fastest%20computers…
 ## HOW-TO-USE
 > Step 1 - Open terminal
 
