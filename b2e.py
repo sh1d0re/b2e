@@ -28,7 +28,7 @@ class b2e():
         for i in range(len(text)):
             for _ in range(len(encodetxt)):
                 if encodetxt[_] == text[i]:
-                    if 2499<=int(int((_)+int(int(str(number)[i])+int(str(number)[i+1])))):val=int((_)+int(int(str(number)[i])))
+                    if 4400<=int(int((_)+int(int(str(number)[i])+int(str(number)[i+1])))):val=int((_)+int(int(str(number)[i])))
                     else:val=int((_)+int(int(str(number)[i])+int(str(number)[i+1])))
                     finaltxt=finaltxt+encodetxt[int(val)]
         return(finaltxt)
@@ -55,7 +55,7 @@ class b2e():
         for i in range(len(text)):
             for _ in range(len(encodetxt)):
                 if encodetxt[_] == text[i]:
-                    if 2499<=int(int((_)-int(int(str(number)[i])+int(str(number)[i+1])))):val=int((_)-int(int(str(number)[i])))
+                    if 4400<=int(int((_)-int(int(str(number)[i])+int(str(number)[i+1])))):val=int((_)-int(int(str(number)[i])))
                     else:val=int((_)-int(int(str(number)[i])+int(str(number)[i+1])))
                     finaltxt=finaltxt+encodetxt[int(val)]
         for i in range(len(itxt)):finaltxt=finaltxt.replace(itxt[i],"")
