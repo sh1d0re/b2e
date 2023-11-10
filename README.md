@@ -50,10 +50,14 @@
 
 #### Calculating ETA to brute force the public key with a quantum computer:
 ```(Assume the calculations solvable in 1 sec, is 158,000,000,000,000,000,000,000,000calculations/sec)```
+CALCULATING THE CALCULATION SPEED OF A QUANTUM COMPUTER:
 >    SUPERCOMPUTER: 1,000,000,000,000,000,000calculations/sec
+
 > QUANTUM COMPUTER: 1,000,000,000,000,000,000*158,000,000=158,000,000,000,000,000,000,000,000calculations/sec
+
 8,262,529,267,563,862,879,390,884,427,947,885,999,000/158,000,000,000,000,000,000,000,000=52294489000000seconds
-BRUTE FORCE TAKES: 16582.473680872652 centuries
+
+> = Around 16582.473680872652 centuries
 
 https://www.scientificamerican.com/article/new-exascale-supercomputer-can-do-a-quintillion-calculations-a-second/
 
