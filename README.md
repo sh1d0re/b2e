@@ -69,7 +69,7 @@ https://www.nasdaq.com/articles/putting-ai-on-the-fast-track-to-sure-fire-succes
 
 ```git clone https://github.com/sh1d0re/b2e.git```
 
-```cd b2e ; cp b2e.py``` ``` // Enter The Directory You Want To Import B2E Here [Ex. /projects/b2e_encoder /test/projects/]```
+```cd b2e ; cp b2e.py``` ```// Enter The Directory You Want To Import B2E Here [Ex. /projects/b2e_encoder /test/projects/]```
 
 > Step 3 - To use it in your python code locally, import script.py and the b2e class by using the following code on the head of your program:
 
